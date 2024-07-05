@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-07-05T17:53:39.789Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="rQeJriUBGq9WuhJ52ZEP" version="24.6.4" type="device">
+<mxfile host="Electron" modified="2024-07-05T19:08:06.497Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="uK92tvW3hfcjTjOgtHEs" version="24.6.4" type="device">
   <diagram name="Page-1" id="C0P7Adb3l9KmyFz8Vqjz">
-    <mxGraphModel dx="1899" dy="1276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1546" dy="1308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +317,7 @@
         <mxCell id="V2JYpR8AUArD--J9-efn-59" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;direction=south;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="zP-Q6vxdBJ1_ox4UWPle-16">
           <mxGeometry x="425" y="80" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zP-Q6vxdBJ1_ox4UWPle-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;Observability&lt;/font&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=30;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#000000;fontColor=#FFFFFF;verticalAlign=top;align=center;spacingLeft=5;dashed=1;strokeWidth=2;fontSize=16;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="zP-Q6vxdBJ1_ox4UWPle-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;Observability / SRE&lt;/font&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;horizontal=1;collapsible=0;startSize=30;swimlaneLine=0;swimlaneFillColor=none;fillColor=none;rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=12;strokeColor=#000000;fontColor=#FFFFFF;verticalAlign=top;align=center;spacingLeft=5;dashed=1;strokeWidth=2;fontSize=16;labelBackgroundColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="1260" y="260" width="309.44000000000005" height="300" as="geometry" />
         </mxCell>
         <mxCell id="v-gH3lgKotWhQbOaU9q--62" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=1;strokeColor=#8C8C8C;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="zP-Q6vxdBJ1_ox4UWPle-29" vertex="1">
